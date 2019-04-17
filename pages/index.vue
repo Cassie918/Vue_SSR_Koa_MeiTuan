@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        mt-app
+        Cassie-App
       </h1>
       <h2 class="subtitle">
         My delightful Nuxt.js project
